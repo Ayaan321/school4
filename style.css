@@ -1,0 +1,140 @@
+body
+{
+    text-align: center;
+}
+#home {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#0fdbc7 0%, #0fa5db 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+#bio {
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 50px;
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+
+
+.events {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.events i {
+    float: right;
+
+}
+
+
+#videos iframe
+{
+    width: 80%;
+}
+
+
+input
+{
+    background: grey;
+}
+
+
+.navbar-inverse{
+    position: sticky;
+    top: 0;
+    
+    z-index: 10000;
+}
+
+h1contact{
+    position: fixed;
+}
+
+.travel1 {
+    border: 1px solid grey;
+    padding-left: 0;
+    padding-right: o;
+    width: 500px;
+}
+
+.travel1 img {
+    width: 500px;
+}
+
+
+.travel1 h5,
+p {
+    margin-left: 20px;
+}
+
+#parent{
+    display: flex;
+}
+
+
+.e1 {
+    margin-top: 15px;
+    
+}
+
+.e1 h4{
+    border-bottom: 1px solid black;
+    padding: 8px;
+}
+
+
+.e1 img{
+    border-radius:25px;
+}
+
+.e1 p{
+    margin-top:10px;
+}
+
+.modal{
+    text-align: center;
+}
+}
+
+.modal-content{
+    margin-top: 100px;
+}
+
+.p_modal{
+    margin-top: 10px;
+}
+.fse_img{
+ margin: auto;   
+}
+#books{
+    text-align: center;
+}
